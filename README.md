@@ -1,6 +1,6 @@
 # chalk
 
-A collection of chalk-like colorscheme setting files for vim, pygments, TextMate (Sublime Text).
+A collection of chalk-like colorscheme setting files for TextMate (Sublime Text), vim and pygments.
 
 ![img](https://github.com/ocxtal/chalk/blob/master/chalk.png)
 
